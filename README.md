@@ -103,6 +103,8 @@ A single fused kernel can be significantly faster on hardware designed for AI wo
 
 ## 7. Contact
 
-- [Tenstorrent GitHub](https://github.com/tenstorrent/tt-metal) for reference materials on specialized AI kernels  
-- General questions about HPC or ML kernel design can also be directed to relevant open-source communities
-```
+Feel free to reach out for questions or feedback:
+
+- **LinkedIn**: [mohitraosatya](https://www.linkedin.com/in/mohitraosatya/)  
+- **Email**: [saka4331@colorado.edu](mailto:saka4331@colorado.edu)
+
